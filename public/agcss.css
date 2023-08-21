@@ -1,0 +1,254 @@
+body{
+  overflow-x: hidden;
+}
+        header{
+            background-color: 9E6F21;
+    
+        }
+
+
+
+       li{
+            display:inline;
+        }
+
+
+
+       a{
+        text-decoration: none;
+       }
+      .myh6{
+        color:#9E6F21;
+        letter-spacing: 2px;
+        font-family: arial;
+      }
+      #web2{
+        font-family: Verdana;
+      }
+    #img1{
+      width:400px;
+      height:300px;
+      position:relative;
+      
+    }
+  .sharetext1{
+    background-color:#C8B6A6;
+    padding-block:10px;
+    margin-bottom:px;
+    color:white;
+    font-family:inkfree;
+    width:400px;
+    
+  
+  }
+  .sharetext2{
+    background-color:#C8B6A6;
+    padding-block:10px;
+    margin-bottom:px;
+    color:white;
+    font-family:inkfree;
+    width:400px;
+  }
+  .sharetext3{
+    background-color:#C8B6A6;
+    padding-block:10px;
+    margin-bottom:px;
+    color:white;
+    font-family:inkfree;
+    width:400px;
+  }
+  .accom1{
+    color:#9E6F21;
+        letter-spacing: 5px;
+        font-family: arial;
+
+  }
+  .accom2{
+    font-family: ebri;
+  }
+  .para{
+    font-family:arial;
+  }
+  .fac1{
+    font-family:ink;
+    color:#9E6F21;
+   
+
+
+  }
+.fac2{
+  font-family: simsun;
+  
+}
+  .factext{
+    font-family: simsum;
+  }
+  .fac3
+  {
+    font-family:consolas;
+  }
+  .badge1{
+    background-color:#9E6F21;
+    font-family: simsun;
+
+  }
+  #dub1{
+    height:300px;
+    width:540px;
+  }
+  #dub2{
+    height:300px;
+    width:800px;
+  }
+  .dubtext{
+    font-family: simsum;
+  }
+  .dubtex1{
+    font-family:'Courier New', Courier, monospace
+  }
+  .utens{
+    font-family: simsum;
+
+
+  }
+  .surround2{
+    font-family: simsun;
+    color:#9E6F21;
+  }
+  .surround1{
+    font-family:ink;
+    letter-spacing: 5px;
+  }
+  .near{
+    font-family: simsum;
+    background-color:#C8B6A6 ;
+    color:white;
+    padding:10px;
+    display:block;
+    width:400px;
+  }
+  .welcome{
+    font-style:italic;
+
+  }
+  #abh{
+    font-family: simSum;
+  }
+  #abh1{
+    font-family:ink;
+    color: #DFA67B;
+    letter-spacing: 3px;
+
+  }
+  #abh2{
+    font-family:calibri;
+  }
+  .abh3{
+    font-family:simsum;
+  }
+  .abh4{
+    font-family: calibri;
+    color:#9E6F21;
+  }
+  .abh5{
+    font-family:ink;
+  }
+  .imgh{
+    height:400px;
+    width: 300px;;
+  }
+.gall1{
+  font-family:simsum;
+  color:#9E6F21;
+}
+.feedback{
+  height:"600px";
+}
+.total{
+  background-color: rgb(163, 123, 59);
+  
+  font-size:14px;
+}
+.contact1{
+  width:80%;
+  margin:50px auto;
+}
+.cright{
+  background-color: hsl(37, 94%, 33%);
+  font-family: roboto slab;
+}
+.cleft{
+  background-color: #fff;
+  font-family: roboto slab;
+}
+.contactp{
+  font-family: roboto slab;
+}
+.input-row{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom:20px
+}
+.form-control{
+  width:100%;
+  border: none;
+  border-bottom: 1px solid rgb(150, 110, 8);
+  outline:none;
+  padding-bottom: 5px;
+}
+
+.input-row .frmt{
+  flex-basis: 45%;
+
+}
+textarea{
+  width:100%;
+  border-bottom: 1px solid rgb(150, 110, 8);
+
+}
+.btnc{
+  background-color: #9E6F21;
+}
+.loc{
+ font-family: roboto slab;
+
+}
+footer{
+  font-family: rajdhani;
+}
+.reviewh1{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: Simsum;
+}
+.rc{
+  color:#9E6F21;
+  font-family: Simsum;
+  font-weight: Bold;
+  
+}
+.design{
+  background-color: #9E6F21;
+
+}
+.small{
+  font-size: smaller;
+}
+.mreviews{
+  color:#9E6F21;
+  display:block;
+  justify-content: end;
+}
+.faqq{
+  color:#9E6F21;
+  font-family: Simsum;
+  font-weight: bold;
+}
+
+@media screen and (max-width:1200px){
+  body{
+    flex:100%;
+    max-width:100%
+  }
+
+}
